@@ -1,0 +1,21 @@
+
+
+form {
+  display: inline-block;
+}
+
+form label{
+  display: inline-block;
+  width: 8.5em;
+  text-align: right;
+}
+
+form input {
+  display: inline-block;
+  margin-left: 1em;
+  width: 12em;
+}
+
+form > div {
+  margin-top: 1em;
+}
